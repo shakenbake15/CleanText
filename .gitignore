@@ -1,3 +1,5 @@
 #ignore test text
 Test.txt
 
+#ignore output file
+Results/processed_output.txt
