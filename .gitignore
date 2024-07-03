@@ -3,3 +3,6 @@ Test.txt
 
 #ignore output file
 Results/processed_output.txt
+
+#ignore folder
+Results/
